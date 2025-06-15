@@ -118,6 +118,26 @@
 - **Verdere informatie:** Mais heeft veel ruimte nodig en vraagt veel water.
 
 
+### Paprika
+- **Voorkiemen / Voorzaaien:** Je kunt in een kas voorzaaien tussen februari en maart. Het duurt ongeveer 4-6 weken voor ze klaar zijn.
+- **Planten:** Vanaf mei kun je ze planten. Zorg voor een warme, zonnige plek.
+- **Oogsten:** Na ongeveer 10-12 weken kun je oogsten. Ze zijn klaar wanneer de paprika's hun volledige kleur hebben.
+- **Bemesten:** Gebruik compost bij het planten. Bemest eventueel bijmesten halverwege het seizoen.
+- **Goede en slechte buren:** Goede buren zijn tomaten en wortels. Slechte buren zijn kool en bonen.
+- **Onderhoud:** Geef regelmatig water en houd het bed onkruidvrij. Steun de planten bij zware vruchtdracht.
+- **Verdere informatie:** Paprika's hebben veel warmte nodig en doen het goed in een kas.
+
+
+### Peper
+- **Voorkiemen / Voorzaaien:** Je kunt in een kas voorzaaien tussen februari en maart. Het duurt ongeveer 4-6 weken voor ze klaar zijn.
+- **Planten:** Vanaf mei kun je ze planten. Zorg voor een warme, zonnige plek.
+- **Oogsten:** Na ongeveer 10-12 weken kun je oogsten. Ze zijn klaar wanneer de pepers hun volledige kleur hebben.
+- **Bemesten:** Gebruik compost bij het planten. Bemest eventueel bijmesten halverwege het seizoen.
+- **Goede en slechte buren:** Goede buren zijn tomaten en wortels. Slechte buren zijn kool en bonen.
+- **Onderhoud:** Geef regelmatig water en houd het bed onkruidvrij. Niet teveel water geven voor meer scherpte.
+- **Verdere informatie:** Pepers hebben veel warmte nodig en doen het goed in een kas.
+
+
 ### Prei
 - **Voorkiemen / Voorzaaien:** Je kunt in een kas voorzaaien tussen februari en maart. Het duurt ongeveer 4-6 weken voor ze klaar zijn.
 - **Planten:** Vanaf april kun je ze planten. Zorg voor een vochtige plek.
@@ -176,3 +196,13 @@
 - **Goede en slechte buren:** Goede buren zijn wortels en sla. Slechte buren zijn bonen.
 - **Onderhoud:** Geef regelmatig water en houd het bed onkruidvrij.
 - **Verdere informatie:** Sperzieboon is makkelijk te telen en heeft weinig onderhoud nodig.
+
+
+### Tomaat
+- **Voorkiemen / Voorzaaien:** Je kunt in een kas voorzaaien tussen februari en maart. Het duurt ongeveer 4-6 weken voor ze klaar zijn.
+- **Planten:** Vanaf mei kun je ze planten. Zorg voor een warme, zonnige plek.
+- **Oogsten:** Na ongeveer 10-12 weken kun je oogsten. Ze zijn klaar wanneer de tomaten hun volledige kleur hebben.
+- **Bemesten:** Gebruik compost en tomatenmest bij het planten. Bemest eventueel bijmesten halverwege het seizoen.
+- **Goede en slechte buren:** Goede buren zijn knoflook en wortels. Slechte buren zijn aardappels en kool.
+- **Onderhoud:** Geef regelmatig water en houd het bed onkruidvrij. Dieven (zijscheuten verwijderen) voor betere opbrengst.
+- **Verdere informatie:** Tomaten hebben veel warmte nodig en doen het goed in een kas of tegen een zonnige muur.
