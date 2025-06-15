@@ -453,12 +453,6 @@
   * Gekookt: Minder bekend maar lekker, vooral winterradijzen kunnen gestoofd of geroosterd worden.
   * Gefermenteerd: Kan ingemaakt worden in azijn of gefermenteerd zoals kimchi.
   * Bladeren: Jonge, verse radijsbladeren zijn eetbaar in salades of kort gestoomd als groente.
-- **Voordelen voor beginners:** Radijs is ideaal voor beginnende tuiniers omdat ze:
-  * Zeer snel groeien en snelle voldoening geven.
-  * Weinig ruimte nodig hebben en in potten kunnen groeien.
-  * Bijna het hele jaar door geteeld kunnen worden.
-  * Weinig onderhoud vereisen.
-  * Goed zijn om kinderen te laten kennismaken met tuinieren vanwege de snelle resultaten.
 
 
 ### Rode biet
@@ -584,12 +578,6 @@
     - Romaine/bindsla: Steviger blad met uitgesproken smaak, traditioneel gebruikt in Caesar salad.
     - Eikenbladsla en andere losse slasoorten: Vaak meer smaak en voedingswaarde, decoratief in gemengde salades.
   * Gekookt: Minder bekend maar mogelijk, bijvoorbeeld kort gestoofd of in soepen.
-- **Voordelen voor beginners:** Sla is ideaal voor beginnende tuiniers omdat:
-  * Het snel groeit en snelle voldoening geeft.
-  * Het weinig ruimte nodig heeft en in potten kan groeien.
-  * Het bijna het hele groeiseizoen geteeld kan worden.
-  * Pluksla een langdurige oogst geeft zonder nieuwe planten te zetten.
-  * Het weinig onderhoud vereist en relatief weinig problemen kent.
 
 
 ### Sperzieboon
@@ -630,12 +618,6 @@
   * Rauw: Jonge, malse boontjes kunnen rauw gegeten worden in salades.
   * Ingemaakt: In zuur of als pickles.
   * Verschillende kleuren en vormen: Naast de klassieke groene zijn er ook gele (wasbonen), paarse, platte (snijbonen) en ronde (haricots verts) variëteiten beschikbaar.
-- **Voordelen voor beginners:** Sperziebonen zijn ideaal voor beginnende tuiniers omdat:
-  * Ze relatief snel groeien en een goede opbrengst geven.
-  * Ze weinig bemesting nodig hebben en de grond verrijken met stikstof.
-  * Stamslabonen weinig ruimte nodig hebben en in potten kunnen groeien.
-  * Ze weinig voorkomende ziekten en plagen hebben.
-  * Ze een lange oogstperiode hebben, vooral stokbonen.
 
 
 ### Tomaat
