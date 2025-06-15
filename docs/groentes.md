@@ -639,12 +639,53 @@
 
 
 ### Tomaat
-- **Voorkiemen / Voorzaaien:** Je kunt in een kas voorzaaien tussen februari en maart. Het duurt ongeveer 4-6 weken voor ze klaar zijn.
-- **Planten:** Vanaf mei kun je ze planten. Zorg voor een warme, zonnige plek.
-- **Zaaiafstanden:** Plant tomaten op ongeveer 40-60 cm afstand van elkaar in rijen die 75-90 cm uit elkaar liggen.
-- **Grootte:** Tomatenplanten kunnen, afhankelijk van het ras, 100-250 cm hoog worden. Ze hebben altijd ondersteuning nodig in de vorm van stokken, tomatenkooien of een draadsysteem. Indeterminante (doorgroeiende) rassen worden hoger dan determinante (struik) rassen.
-- **Oogsten:** Na ongeveer 10-12 weken kun je oogsten. Ze zijn klaar wanneer de tomaten hun volledige kleur hebben.
-- **Bemesten:** Gebruik compost en tomatenmest bij het planten. Bemest eventueel bijmesten halverwege het seizoen.
-- **Goede en slechte buren:** Goede buren zijn knoflook en wortels. Slechte buren zijn aardappels en kool.
-- **Onderhoud:** Geef regelmatig water en houd het bed onkruidvrij. Dieven (zijscheuten verwijderen) voor betere opbrengst.
-- **Verdere informatie:** Tomaten hebben veel warmte nodig en doen het goed in een kas of tegen een zonnige muur.
+- **Voorkiemen / Voorzaaien:** Tomaten zijn warmteminnende planten die in ons klimaat een lange groeiperiode nodig hebben. Er zijn verschillende typen:
+  * Indeterminante (doorgroeiende) rassen: Blijven doorgroeien en produceren tot de vorst, worden 1,5-2,5 meter hoog.
+  * Determinante (struik) rassen: Groeien tot een bepaalde hoogte, produceren in een kortere periode, worden 60-120 cm hoog.
+  * Cherrytomaten: Kleine vruchten, vaak zeer productief en wat zoeter van smaak.
+  * Vleestomaten: Grote vruchten, ideaal voor salades en sandwiches.
+  * Roma/pruimtomaten: Eivormig, minder sappig, ideaal voor sauzen.
+  Zaai 6-8 weken voor de laatste verwachte vorst, meestal tussen half februari en maart, in een verwarmde kas of op de vensterbank bij 20-25°C. Zaai de zaden 0,5-1 cm diep in zaaitrays of kleine potjes. De zaden kiemen binnen 5-10 dagen. Verspeend de zaailingen naar individuele potten wanneer ze 2-3 echte bladeren hebben. Geef ze voldoende licht om te voorkomen dat ze lang en sprieterig worden.
+- **Planten:** Plant de zaailingen buiten vanaf half mei, wanneer alle vorstgevaar geweken is en de nachttemperatuur minimaal 10°C is. Zorg voor een zonnige, beschutte plek met vruchtbare, goed gedraineerde grond. Hard de zaailingen geleidelijk af door ze 1-2 weken voor het uitplanten steeds langer buiten te zetten. In het Nederlandse klimaat doen tomaten het vaak beter in een kas of tunnel dan in de volle grond. Plant dieper dan ze in de pot stonden, tot aan de onderste bladeren; de stengel vormt extra wortels. Plaats direct bij het planten de ondersteuning (stokken, tomatenkooien of draad).
+- **Zaaiafstanden:** Plant tomaten op ongeveer 40-60 cm afstand van elkaar in rijen die 75-90 cm uit elkaar liggen. Determinante rassen kunnen wat dichter bij elkaar (40-50 cm), indeterminante rassen hebben meer ruimte nodig (50-60 cm). In potten heb je minimaal 10-15 liter grond per plant nodig, liefst meer.
+- **Grootte:** Tomatenplanten kunnen, afhankelijk van het ras, 60-250 cm hoog worden:
+  * Determinante rassen: 60-120 cm hoog, vormen een struik die na een bepaalde hoogte stopt met groeien.
+  * Indeterminante rassen: 150-250 cm hoog, blijven doorgroeien tot ze worden getopt of door vorst worden gedood.
+  Alle tomatenplanten hebben ondersteuning nodig in de vorm van stokken, tomatenkooien of een draadsysteem. Bind de hoofdstengels losjes vast naarmate de plant groeit, gebruik zachte materialen om de stengel niet te beschadigen.
+- **Oogsten:** Na ongeveer 10-14 weken vanaf het uitplanten (afhankelijk van het ras en de groeiomstandigheden) kun je beginnen met oogsten, meestal vanaf juli-augustus. Tomaten zijn klaar om te oogsten wanneer ze hun volledige kleur hebben bereikt en licht meegeven bij zachtjes knijpen. Pluk ze met de steel eraan door deze af te breken of met een schaar af te knippen. Aan het einde van het seizoen (september) kun je groene tomaten oogsten en binnen laten narijpen, of de hele plant uittrekken en ondersteboven ophangen in een vorstvrije ruimte.
+- **Bemesten:** Tomaten zijn gulzige planten die veel voedingsstoffen nodig hebben. Werk voor het planten rijkelijk compost of goed verteerde mest door de grond. Geef elke 2-3 weken een tomatenmest (kaliumrijk) vanaf het moment dat de eerste vruchten verschijnen. Vermijd te veel stikstof, wat bladgroei ten koste van vruchtzetting kan stimuleren. Calcium is belangrijk om neusrot te voorkomen.
+- **Goede en slechte buren:** Goede buren zijn basilicum (verbetert smaak en weert insecten), wortels, uien, knoflook, peterselie, selderij, asperges en afrikaantjes (weren nematoden). Slechte buren zijn aardappels, aubergines, paprika's (dezelfde familie, delen ziekten), venkel, koolsoorten en mais.
+- **Onderhoud:** 
+  * Dieven: Bij indeterminante rassen, verwijder regelmatig de zijscheuten (dieven) die groeien in de bladoksels tussen hoofdstengel en bladsteel. Dit bevordert de luchtcirculatie en stuurt energie naar de vruchten in plaats van naar nieuw blad.
+  * Water geven: Geef regelmatig en gelijkmatig water, bij voorkeur 's ochtends aan de basis van de plant. Vermijd het nat maken van het blad om schimmelziekten te voorkomen. Droogte gevolgd door veel water kan leiden tot scheuren in de vruchten.
+  * Mulch rond de planten om vocht vast te houden, onkruid te onderdrukken en de bodem warm te houden.
+  * Toppen: Stop de groei van indeterminante rassen ongeveer een maand voor de eerste verwachte vorst door de top af te knijpen. Dit helpt de resterende vruchten te laten rijpen.
+  * Blad verwijderen: Verwijder de onderste bladeren naarmate de plant groeit, vooral als ze geel worden of de grond raken. Dit verbetert de luchtcirculatie.
+  * In een kas is het belangrijk om voor goede ventilatie te zorgen en eventueel te schermen tegen felle middagzon.
+- **Veelvoorkomende problemen:**
+  * Phytophthora (tomatenziekte): Bruine vlekken op bladeren en stengels, vooral in natte periodes. Preventie: goede luchtcirculatie, vermijd het nat maken van het blad, gebruik resistente rassen. Verwijder aangetaste delen direct.
+  * Neusrot: Zwarte, ingezonken plekken aan de onderkant van de vrucht. Veroorzaakt door calciumgebrek, vaak door onregelmatige watervoorziening. Zorg voor gelijkmatige bewatering en eventueel een calciumbespuiting.
+  * Bladluizen: Kunnen groeivervorming en virusoverdracht veroorzaken. Spuit af met water of gebruik zeepoplossing.
+  * Witte vlieg: Kleine witte vliegjes die sap zuigen. Gebruik gele vangplaten en houd de kas schoon.
+  * Scheuren in vruchten: Vaak door onregelmatige watervoorziening. Zorg voor gelijkmatige bewatering.
+  * Groene kroontjes: Harde, groene plekken rond de steel. Veroorzaakt door te veel direct zonlicht. Zorg voor voldoende bladbedekking.
+- **Bewaren:** Verse tomaten blijven op kamertemperatuur 5-7 dagen goed. Bewaar ze NIET in de koelkast, dit vermindert de smaak en textuur. Leg ze met de steel naar boven om kneuzingen te voorkomen. Voor langere bewaring zijn er verschillende methoden:
+  * Invriezen: Heel, in stukjes of als saus.
+  * Drogen: In de oven of droogmachine voor zongedroogde tomaten.
+  * Inmaken: Als hele tomaten, saus, ketchup of chutney.
+  * Fermenteren: Voor speciale sauzen of conserven.
+  Groene tomaten kunnen binnen narijpen bij kamertemperatuur, eventueel met een rijpe appel erbij (die ethyleen afgeeft).
+- **Culinair gebruik:** Tomaten zijn veelzijdig in de keuken:
+  * Rauw: In salades, sandwiches, bruschetta of als snack.
+  * Gekookt: In sauzen, soepen, stoofschotels of gegrild als bijgerecht.
+  * Verschillende rassen hebben verschillende culinaire toepassingen:
+    - Cherrytomaten: Perfect voor salades en als snack.
+    - Vleestomaten: Ideaal voor sandwiches en gevulde tomaten.
+    - Roma/pruimtomaten: Beste keuze voor sauzen door hun lage watergehalte.
+    - Gele en oranje variëteiten: Vaak zoeter en minder zuur dan rode.
+- **Tips voor beginners:**
+  * Begin met een paar planten van verschillende rassen om te ontdekken wat het beste werkt in jouw tuin.
+  * Cherrytomaten zijn vaak het meest betrouwbaar en productief voor beginners.
+  * Een kas of tunnel, zelfs een eenvoudige, verbetert de opbrengst aanzienlijk in ons klimaat.
+  * Regelmatig dieven en ondersteunen is essentieel voor gezonde planten en goede opbrengst.
+  * Wees geduldig - tomaten hebben warmte en tijd nodig, maar de smaak van zelfgekweekte tomaten is onvergelijkbaar met winkelversies.
