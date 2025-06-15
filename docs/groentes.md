@@ -665,9 +665,3 @@
     - Vleestomaten: Ideaal voor sandwiches en gevulde tomaten.
     - Roma/pruimtomaten: Beste keuze voor sauzen door hun lage watergehalte.
     - Gele en oranje variëteiten: Vaak zoeter en minder zuur dan rode.
-- **Tips voor beginners:**
-  * Begin met een paar planten van verschillende rassen om te ontdekken wat het beste werkt in jouw tuin.
-  * Cherrytomaten zijn vaak het meest betrouwbaar en productief voor beginners.
-  * Een kas of tunnel, zelfs een eenvoudige, verbetert de opbrengst aanzienlijk in ons klimaat.
-  * Regelmatig dieven en ondersteunen is essentieel voor gezonde planten en goede opbrengst.
-  * Wees geduldig - tomaten hebben warmte en tijd nodig, maar de smaak van zelfgekweekte tomaten is onvergelijkbaar met winkelversies.
